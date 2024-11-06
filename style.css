@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: fantasy;
+}
+
+#container {
+    margin: 5rem;
+}
+
+.flex {
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    text-align: center;
+}
+
+.catchphrase {
+    font-style: 1.5rem;
+}
