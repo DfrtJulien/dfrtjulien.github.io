@@ -1,22 +1,33 @@
 body {
     font-family: sans-serif;
-}
-
-h1 {
+  }
+  
+  h1 {
     font-family: fantasy;
-}
-
-#container {
+  }
+  
+  #container {
     margin: 5rem;
-}
-
-.flex {
+  }
+  
+  .flex {
     display: flex;
-    justify-self: center;
+    justify-content: center;
     align-items: center;
     text-align: center;
-}
+  }
+  
+  .catchphrase {
+    font-size: 1.5rem;
+    margin: 3rem 0;
+    text-align: center;
+  }
 
-.catchphrase {
-    font-style: 1.5rem;
-}
+  #button-clicker {
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    background-color: rgb(76, 76, 193);
+    border-radius: 5px;
+    color: white;
+  }
