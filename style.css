@@ -31,3 +31,11 @@ body {
     border-radius: 5px;
     color: white;
   }
+
+  #total {
+    font-size: 1.5rem;
+    background-color: rgb(138, 70, 202);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
